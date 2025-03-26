@@ -1,5 +1,4 @@
-
-🤖 AI Chatbot with File Upload & Emoji Support
+## 🤖 AI Chatbot with File Upload & Emoji Support
 
 ## 🌟 Overview
 This is a simple yet awesome AI chatbot 🤖 that chats with users via text messages, supports file uploads 📤, and lets you sprinkle some fun with emojis 😊🎉. Powered by Google’s Generative Language API, this chatbot brings smart replies to your fingertips! The interface is sleek, allowing you to send messages, upload images, and jazz up your chats with emojis.
