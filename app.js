@@ -7,7 +7,7 @@
 
 
  //API setup
- const API_KEY="AIzaSyCkaDHSWWsxu9o4oBRNXEnwZeN2CV3x9PU"
+ const API_KEY="Your_Secret_API_Key"
 
  const API_URL=`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
  
